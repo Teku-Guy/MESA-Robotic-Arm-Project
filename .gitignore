@@ -1,6 +1,18 @@
 .pio
 .vscode
-.AGENTS.md
+
+# Agent task files
+CODING_AGENT.md
+TESTING_AGENT.md
+GIT_AGENT.md
+DOCUMENTATION_AGENT.md
+PROJECT_GUIDELINES.md
+AGENTS.md
+
+# Cursor/Copilot rules
+.cursor/
+.cursorrules
+.github/copilot-instructions.md
 
 # Prerequisites
 *.d
